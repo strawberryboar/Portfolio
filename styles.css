@@ -1,0 +1,62 @@
+body {
+    background-color: #305F72;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+.container {
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    float: right;
+}
+
+
+
+.profile img {
+    width: 200px;
+    height: 200px;
+    margin-left: 15%;
+}
+
+.card {
+    margin: 15px;
+    background-color: #72a6bd;
+}
+
+.profile {
+    position: fixed;
+    float: left;
+}
+
+#profileIMG {
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+}
+
+img {
+    width: 282px;
+    height: 439px;
+}
+
+a {
+    color: #1c4453;
+}
+
+a:hover {
+    color: white;
+}
+
+.btn {
+    background-color: #1c4453;
+}
+
+.btn:hover {
+    background-color: #3e6f83;
+}
